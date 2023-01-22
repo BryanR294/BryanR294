@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @BryanR294
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👋 Hi, my name is Bryan Reyes and I'm interested in Data Science and Machine Learning.
+- 👀 I’m currently learning React.
 - 📫 How to reach me: Gecko#9202 (Discord)
 
 <!---
