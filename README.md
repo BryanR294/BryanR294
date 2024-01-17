@@ -1,6 +1,5 @@
-- 👋 Hi, my name is Bryan Reyes and I'm interested in Data Science and Machine Learning.
+### Hi!
+My name is Bryan and I'm a highschool senior interested in Software Engineering, data science and really all things technology. 
 
-<!---
-BryanR294/BryanR294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Proficient Languages
+Java, Python, HTML5, CSS, Javascript, TypeScript
