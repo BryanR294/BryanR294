@@ -1,5 +1,5 @@
 ## Hi!
-My name is Bryan Reyes and I'm a highschool senior interested in Software Engineering, data science and really all things technology.
+My name is Bryan Reyes and I'm a college freshmen interested in Software Engineering, data science and really all things technology.
 Outside of CS, I'm a dedicated volleyball athlete and mathmatician. 
 
 ### Proficient Languages
