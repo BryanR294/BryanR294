@@ -1,6 +1,8 @@
-## Hi!
-My name is Bryan Reyes and I'm a college freshmen interested in Software Engineering, data science and really all things technology.
-Outside of CS, I'm a dedicated volleyball athlete and mathmatician. 
+# Bryan Reyes
+I'm a freshmen @ Montgomery College studying Computer Science.
+I'm looking to meet like-minded coders interested in Software Engineering or Data Science. 
+I also enjoy reading manga and playing volleyball, along with gaming. 
 
-### Proficient Languages
-Java, Python, HTML5, CSS, Javascript, TypeScript
+### Learned
+TypeScript, React, Java, Data Structures and Algorithms, intermediate Graph Theory
+
