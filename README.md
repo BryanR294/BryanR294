@@ -4,5 +4,5 @@ I'm looking to meet like-minded coders interested in Software Engineering or Dat
 I also enjoy reading manga and playing volleyball, along with gaming. 
 
 ### Learned
-TypeScript, React, Java, Data Structures and Algorithms, intermediate Graph Theory
+TypeScript, React, Java, Python, Data Structures and Algorithms, intermediate Graph Theory
 
